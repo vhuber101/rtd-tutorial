@@ -9,6 +9,9 @@ author = 'Graziella'
 release = '0.1'
 version = '0.1.0'
 
+def setup(app):
+   app.add_stylesheet('css/custom.css')
+   
 # -- General configuration
 
 extensions = [

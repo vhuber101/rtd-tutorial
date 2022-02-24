@@ -17,7 +17,6 @@ how to :ref:`installation` the project.
 .. table::
  :width: 100
  :widths: 20 80
- :class: tight-table
  
  +----------------+----------------------------------------------+
  | Service name   | Usage                                        |
