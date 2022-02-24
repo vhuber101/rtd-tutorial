@@ -13,6 +13,22 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+.. table::
+ :width: 100
+ :widths: 20 80
+ 
+ +----------------+----------------------------------------------+
+ | Service name   | Usage                                        |
+ +================+==============================================+	
+ | core           | RESTful APIs for jobs and data               |
+ +----------------+----------------------------------------------+
+ | Enumeration    | SOAP/XML service for long lists (jobs,...)   |
+ +----------------+----------------------------------------------+
+ | Task           | SOAP/XML service for async tasks (metadata   |
+ |                | extraction). Very loooooooooooooooooooooong  |
+ |                | line                                         |
+ +----------------+----------------------------------------------+
 
 Contents
 --------
