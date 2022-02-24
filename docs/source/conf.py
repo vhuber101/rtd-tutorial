@@ -9,8 +9,7 @@ author = 'Graziella'
 release = '0.1'
 version = '0.1.0'
 
-def setup(app):
-   app.add_stylesheet('css/custom.css')
+
    
 # -- General configuration
 
@@ -36,3 +35,6 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+def setup(app):
+   app.add_stylesheet('css/custom.css')
