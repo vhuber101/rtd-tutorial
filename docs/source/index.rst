@@ -13,11 +13,6 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
-   
-.. table::
- :width: 100
- :widths: 20 80
- :class: tight-table
  
 .. table:: 
  :width: 100 
